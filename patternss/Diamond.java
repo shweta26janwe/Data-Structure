@@ -1,5 +1,5 @@
 
-
+// diamond shape 
 
 
 public class Diamond{
